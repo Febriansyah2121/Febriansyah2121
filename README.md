@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 ###
 
 <picture>
-<h2> Play with me</h2>
+<h2 align="left">Play with me</h2>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Febriansyah2121/Febriansyah2121/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Febriansyah2121/Febriansyah2121/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Febriansyah2121/Febriansyah2121/output/pacman-contribution-graph.svg">
