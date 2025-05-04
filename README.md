@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on **@wpucourse** -->
 <!-- - 🌱 I’m currently learning Java Script -->
-
 <h1 align="left">Hey 👋 What's up?</h1>
+
+![Febriansyah](img/github-header-image.png)
 
 ###
 
