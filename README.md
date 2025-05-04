@@ -74,9 +74,8 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello World!!</p>
+<h2 align="left">Contact me!!</h2>
 
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -87,6 +86,7 @@ Here are some ideas to get you started:
 ###
 
 <picture>
+<h2> Play with me</h2>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Febriansyah2121/Febriansyah2121/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Febriansyah2121/Febriansyah2121/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Febriansyah2121/Febriansyah2121/output/pacman-contribution-graph.svg">
