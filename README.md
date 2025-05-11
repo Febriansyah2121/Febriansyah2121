@@ -86,7 +86,6 @@ Here are some ideas to get you started:
   <a href="mailto:febriozz21@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <p>Email: febriozz21@gmail.com</p>
 </div>
 
 ###
